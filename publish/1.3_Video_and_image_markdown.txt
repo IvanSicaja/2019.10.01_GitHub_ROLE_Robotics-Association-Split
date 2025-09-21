@@ -3,12 +3,11 @@
 ### 📸 Project Snapshot
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2020.06.03_GitHub_Genetic-Algorithms/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true" 
-       alt="Genetic Algorithms Preview" 
+  <img src="https://github.com/IvanSicaja/2019.10.01_GitHub_ROLE_Robotics-Association-Split/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
+       alt="Genetic Algorithms Preview 1" 
        width="640" 
        height="360">
 </p>
-
 
 ---
 
@@ -20,6 +19,7 @@
          alt="Watch the demo" 
          width="640" 
          height="360">
-
+  </a>
+</p>
 
 ---

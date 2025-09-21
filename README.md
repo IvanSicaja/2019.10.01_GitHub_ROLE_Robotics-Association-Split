@@ -29,13 +29,25 @@ None.
 
 **Arduino, Raspberry Pi, Computer Vision, Sensor Fusion, C++, Python, Embedded Systems, 3D CAD Design, 3D Printing, CNC Manufacturing, Electronic Prototyping, Soldering, Custom Hardware Solutions, Robot Testing, Efficiency & Cost Optimization, STEM Mentorship, Knowledge Transfer.**
 
+---
+
 ### 📸 Project Snapshot
 
-Not available.
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2019.10.01_GitHub_ROLE_Robotics-Association-Split/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
+       alt="Genetic Algorithms Preview 1" 
+       width="640" 
+       height="1000">
+</p>
+
+---
 
 ### 🎥 Video Demonstration
 
 Not available.
+
+---
+
 
 ### 📣 Hashtags Section
 
